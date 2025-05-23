@@ -1,0 +1,4 @@
+Loan Calculation - 2025-05-22
+Taken: BDT 30,000, Paid: BDT 25,000, Left: BDT 7,560.06, Interest: 8.53%
+Loan Calculation - 2025-05-22
+Taken: BDT 30,000, Paid: BDT 25,000, Left: BDT 6,538.77, Interest: 5.13%

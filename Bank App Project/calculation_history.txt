@@ -1,0 +1,64 @@
+Loan Calculation - 2025-05-22
+Taken: BDT 40,000, Paid: BDT 35,000, Left: BDT 8,583.90, Interest: 8.96%
+Loan Calculation - 2025-05-22
+Taken: BDT 40,000, Paid: BDT 35,000, Left: BDT 8,738.87, Interest: 9.35%
+Loan Calculation - 2025-05-22
+Taken: BDT 30,000, Paid: BDT 25,000, Left: BDT 7,057.88, Interest: 6.86%
+Loan Calculation - 2025-05-22
+Taken: BDT 20,000, Paid: BDT 10,000, Left: BDT 11,165.84, Interest: 5.83%
+Loan Calculation - 2025-05-22
+Taken: BDT 20,000, Paid: BDT 10,000, Left: BDT 11,754.09, Interest: 8.77%
+Loan Calculation - 2025-05-22
+Taken: BDT 20,000, Paid: BDT 10,000, Left: BDT 11,472.39, Interest: 7.36%
+Loan Calculation - 2025-05-22
+Taken: BDT 20,000, Paid: BDT 10,000, Left: BDT 11,290.42, Interest: 6.45%
+Loan Calculation - 2025-05-22
+Taken: BDT 20,000, Paid: BDT 10,000, Left: BDT 11,484.22, Interest: 7.42%
+Loan Calculation - 2025-05-22
+Taken: BDT 20,000, Paid: BDT 10,000, Left: BDT 11,050.48, Interest: 5.25%
+Loan Calculation - 2025-05-22
+Taken: BDT 20,000, Paid: BDT 10,000, Left: BDT 11,417.29, Interest: 7.09%
+Loan Calculation - 2025-05-22
+Taken: BDT 20,000, Paid: BDT 10,000, Left: BDT 11,719.54, Interest: 8.60%
+Loan Calculation - 2025-05-22
+Taken: BDT 20,000, Paid: BDT 10,000, Left: BDT 11,998.63, Interest: 9.99%
+Loan Calculation - 2025-05-22
+Taken: BDT 20,000, Paid: BDT 10,000, Left: BDT 11,929.56, Interest: 9.65%
+Loan Calculation - 2025-05-22
+Taken: BDT 20,000, Paid: BDT 10,000, Left: BDT 11,310.57, Interest: 6.55%
+Loan Calculation - 2025-05-22
+Taken: BDT 20,000, Paid: BDT 10,000, Left: BDT 11,354.27, Interest: 6.77%
+Loan Calculation - 2025-05-22
+Taken: BDT 20,000, Paid: BDT 10,000, Left: BDT 11,517.87, Interest: 7.59%
+Loan Calculation - 2025-05-22
+Taken: BDT 20,000, Paid: BDT 10,000, Left: BDT 11,346.28, Interest: 6.73%
+Loan Calculation - 2025-05-22
+Taken: BDT 20,000, Paid: BDT 10,000, Left: BDT 11,144.95, Interest: 5.72%
+Loan Calculation - 2025-05-22
+Taken: BDT 20,000, Paid: BDT 10,000, Left: BDT 11,135.71, Interest: 5.68%
+Loan Calculation - 2025-05-22
+Taken: BDT 20,000, Paid: BDT 10,000, Left: BDT 11,545.89, Interest: 7.73%
+Loan Calculation - 2025-05-22
+Taken: BDT 20,000, Paid: BDT 10,000, Left: BDT 11,451.33, Interest: 7.26%
+Loan Calculation - 2025-05-22
+Taken: BDT 20,000, Paid: BDT 10,000, Left: BDT 11,307.92, Interest: 6.54%
+Loan Calculation - 2025-05-22
+Taken: BDT 20,000, Paid: BDT 10,000, Left: BDT 11,445.06, Interest: 7.23%
+Loan Calculation - 2025-05-22
+Taken: BDT 20,000, Paid: BDT 10,000, Left: BDT 11,853.57, Interest: 9.27%
+Loan Calculation - 2025-05-22
+Taken: BDT 80,000, Paid: BDT 70,000, Left: BDT 16,434.59, Interest: 8.04%
+Loan Calculation - 2025-05-22
+Taken: BDT 80,000, Paid: BDT 70,000, Left: BDT 17,228.28, Interest: 9.04%
+Loan Calculation - 2025-05-22
+Taken: BDT 60,000, Paid: BDT 45,000, Left: BDT 20,502.46, Interest: 9.17%
+Loan Calculation - 2025-05-22
+Taken: BDT 60,000, Paid: BDT 45,000, Left: BDT 20,668.16, Interest: 9.45%
+Loan Calculation - 2025-05-22
+Taken: BDT 10,000, Paid: BDT 6,000, Left: BDT 4,861.50, Interest: 8.61%
+Loan Calculation - 2025-05-22
+Taken: BDT 10,000, Paid: BDT 6,000, Left: BDT 4,790.69, Interest: 7.91%
+Loan Calculation - 2025-05-23
+Taken: BDT 30,000, Paid: BDT 20,000, Left: BDT 12,806.00, Interest: 9.35%
+Loan Calculation - 2025-05-23
+Taken: BDT 30,000, Paid: BDT 20,000, Left: BDT 12,134.22, Interest: 7.11%
