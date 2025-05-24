@@ -8,7 +8,7 @@ import java.util.Random;
 
 public class Bank extends JFrame implements MouseListener {
     JLabel titleLabel, sloganLabel, logoLabel, welcomeUserLabel;
-    JButton loginBtn, exitBtn, applyLoanBtn, viewLoanStatusBtn,
+    JButton logoutBtn, exitBtn, applyLoanBtn, viewLoanStatusBtn,
             repayLoanBtn, repaymentScheduleBtn, topUpBtn, calculateLoanBtn;
     JLabel backgroundLabel;
     JTextArea loanCalcBox, loanStatusBox, repaymentScheduleBox;
@@ -98,7 +98,7 @@ public class Bank extends JFrame implements MouseListener {
             radioY += 25;
         }
 
-        loginBtn = createButton("LogOut", centerX - 160, 200, 120, 30);
+        logoutBtn = createButton("LogOut", centerX - 160, 200, 120, 30);
         exitBtn = createButton("Exit", centerX + 40, 200, 120, 30);
         applyLoanBtn = createButton("Apply For Loan", centerX - 80, 240, 160, 30);
 
